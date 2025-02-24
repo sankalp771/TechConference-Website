@@ -1,12 +1,9 @@
-Here’s a **clean and precise** `README.md` file for your project:  
 
----
-
-# FutureTech Summit 2025 🌐  
+# Tech Conference/Summit Website 
 
 A modern and dynamic **conference website** built with **Svelte** and **Bootstrap**, featuring interactive components, light/dark mode, and a responsive design.  
 
-## 🚀 Features  
+## Features  
 
 - **Home Page** – Overview of the summit with an engaging UI.  
 - **About Page** – Introduction to the conference with images and key highlights.  
@@ -17,7 +14,7 @@ A modern and dynamic **conference website** built with **Svelte** and **Bootstra
 - **Dark/Light Mode** – Toggle between themes.  
 - **Responsive Design** – Fully optimized for all screen sizes.  
 
-## 🛠️ Setup Instructions  
+## Setup Instructions  
 
 1. **Clone the repository**  
    ```bash
@@ -37,17 +34,13 @@ A modern and dynamic **conference website** built with **Svelte** and **Bootstra
    http://localhost:5173
    ```  
 
-## 🖼️ Technologies Used  
+##  Technologies Used  
 
 - **Svelte** – For building the UI.  
 - **Bootstrap** – For styling and responsive layout.  
 - **JavaScript & HTML** – Core development.  
 - **Git & GitHub** – Version control.  
 
-## 📄 License  
+## License  
 
 This project is **open-source** and free to use.  
-
----
-
-This keeps it **clean, professional, and meets the interviewer's requirements**. Let me know if you want any modifications! 🚀
