@@ -1,38 +1,53 @@
-# sv
+Here’s a **clean and precise** `README.md` file for your project:  
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+---
 
-## Creating a project
+# FutureTech Summit 2025 🌐  
 
-If you're seeing this, you've probably already done this step. Congrats!
+A modern and dynamic **conference website** built with **Svelte** and **Bootstrap**, featuring interactive components, light/dark mode, and a responsive design.  
 
-```bash
-# create a new project in the current directory
-npx sv create
+## 🚀 Features  
 
-# create a new project in my-app
-npx sv create my-app
-```
+- **Home Page** – Overview of the summit with an engaging UI.  
+- **About Page** – Introduction to the conference with images and key highlights.  
+- **Speakers Page** – Showcasing speaker profiles with images and bios.  
+- **Sponsors Page** – Displaying sponsor logos with clickable links.  
+- **Schedule Page** – Timetable for events and sessions.  
+- **Contact Page** – Contact form and social media links.  
+- **Dark/Light Mode** – Toggle between themes.  
+- **Responsive Design** – Fully optimized for all screen sizes.  
 
-## Developing
+## 🛠️ Setup Instructions  
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/sankalp771/TechConference-Website
+   cd futuretech-summit
+   ```  
+2. **Install dependencies**  
+   ```bash
+   npm install
+   ```  
+3. **Run the development server**  
+   ```bash
+   npm run dev
+   ```  
+4. **Open the project in your browser**  
+   ```
+   http://localhost:5173
+   ```  
 
-```bash
-npm run dev
+## 🖼️ Technologies Used  
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- **Svelte** – For building the UI.  
+- **Bootstrap** – For styling and responsive layout.  
+- **JavaScript & HTML** – Core development.  
+- **Git & GitHub** – Version control.  
 
-## Building
+## 📄 License  
 
-To create a production version of your app:
+This project is **open-source** and free to use.  
 
-```bash
-npm run build
-```
+---
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+This keeps it **clean, professional, and meets the interviewer's requirements**. Let me know if you want any modifications! 🚀
