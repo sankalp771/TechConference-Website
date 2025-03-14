@@ -1,5 +1,5 @@
 <script>
-	let eventDate = new Date("2025-02-24T16:00:00").getTime();
+	let eventDate = new Date("2025-03-13T21:05:00").getTime();
 	let countdown = "";
 
 	function updateCountdown() {
